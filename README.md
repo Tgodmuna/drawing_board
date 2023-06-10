@@ -1,4 +1,4 @@
-# Project Name
+# Reactjs drawing_Board
 
 A collaborative drawing board application with various features.
 
@@ -76,9 +76,6 @@ We welcome contributions from developers to improve and add new features to the 
 
 Please ensure that your code follows the project's coding style and conventions. It's also recommended to include tests for your changes.
 
-## Resources
-
-[Provide links to any external resources or references that may be useful for contributors, such as design guidelines, API documentation, or related articles.]
 
 ## License
 
