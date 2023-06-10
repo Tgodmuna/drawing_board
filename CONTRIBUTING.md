@@ -2,7 +2,7 @@
 
 Reactjs drawing_Board is a web-based collaborative drawing board that allows users to draw together in real-time. Collaborate with friends, colleagues, or fellow artists and create stunning artworks using versatile drawing tools. Save and share your creations, and enjoy a seamless drawing experience with Reactjs drawing_Board.
 
-**Note: [Reactjs drawing_Board] is currently under construction.**
+**Note: Reactjs drawing_Board is currently under construction.**
 
 ## Features
 
