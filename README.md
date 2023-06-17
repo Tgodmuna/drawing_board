@@ -9,7 +9,7 @@ A collaborative drawing board application with various features.
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
--[Images](#images)
+- [Images](#images)
 - [Testing](#testing)
 - [Deployment](#deployment)
 - [Known Issues](#known-issues)
@@ -55,12 +55,12 @@ To run the project locally, follow these steps:
 
 [empty board]
 
-[![empty board](/drawing_board/public/fullimage.jpeg)](jk)
+[![empty board](drawing_board/public/fullimage.jpeg)](jk)
 
 [house sketch using the drawing board]
-[![house sketch](/drawing_board/public/houseSK.jpeg)](jk)
+[![house sketch](drawing_board/public/houseSK.jpeg)](jk)
 
-[![Another_sketch](/drawing_board/public/Web%20capture_10-6-2023_124711_localhost.jpeg)](/drawing_board/public/Web%20capture_10-6-2023_124711_localhost.jpeg)
+[![Another_sketch](drawing_board/public/Web%20capture_10-6-2023_124711_localhost.jpeg)](/drawing_board/public/Web%20capture_10-6-2023_124711_localhost.jpeg)
 
 ## Testing
 
