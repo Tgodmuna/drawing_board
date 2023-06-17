@@ -9,6 +9,7 @@ A collaborative drawing board application with various features.
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
+-[Images](#images)
 - [Testing](#testing)
 - [Deployment](#deployment)
 - [Known Issues](#known-issues)
@@ -48,9 +49,22 @@ To run the project locally, follow these steps:
 
 [Explain how to use the application, including the different drawing tools, collaboration features, and any other functionality. Provide examples or screenshots if possible.]
 
+## Images
+
+### App images
+
+[empty board]
+
+[![empty board](/drawing_board/public/fullimage.jpeg)](jk)
+
+[house sketch using the drawing board]
+[![house sketch](/drawing_board/public/houseSK.jpeg)](jk)
+
+[![Another_sketch](/drawing_board/public/Web%20capture_10-6-2023_124711_localhost.jpeg)](/drawing_board/public/Web%20capture_10-6-2023_124711_localhost.jpeg)
+
 ## Testing
 
-[Explain how to run the tests and include any relevant information about the testing framework or approach.]
+Explain how to run the tests and include any relevant information about the testing framework or approach
 
 ## Deployment
 
@@ -58,11 +72,11 @@ To run the project locally, follow these steps:
 
 ## Known Issues
 
-[Document any known bugs, issues, or limitations in the project.]
+Document any known bugs, issues, or limitations in the project.
 
 ## Future Enhancements
 
-[List any planned or desired features and enhancements for the project.]
+List any planned or desired features and enhancements for the project.
 
 ## Contributing
 
@@ -82,6 +96,4 @@ Please ensure that your code follows the project's coding style and conventions.
 
 ## License
 
-
 This project is licensed under the MIT - see the license file for details.
-
