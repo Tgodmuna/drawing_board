@@ -30,7 +30,6 @@ The project is a web-based collaborative drawing board that allows users to draw
 - User accounts for saving and managing drawings.
 - Eraser functionality that can clean any color, not just replace colors.
 - Ability to save files to avoid accidentally losing work.
-- [Add any additional features or ideas you have]
 
 ## Technologies Used
 
