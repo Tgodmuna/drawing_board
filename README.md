@@ -30,37 +30,36 @@ The project is a web-based collaborative drawing board that allows users to draw
 - User accounts for saving and managing drawings.
 - Eraser functionality that can clean any color, not just replace colors.
 - Ability to save files to avoid accidentally losing work.
-- [Add any additional features or ideas you have]
 
 ## Technologies Used
 
-- [Reactjs, styled-components,hooks]
+- Reactjs, styled-components,hooks
 
 ## Getting Started
 
 To run the project locally, follow these steps:
 
-1. Clone the repository: `git clone [repository URL]`
+1. Clone the repository: `git clone repository URL`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm start`
 4. Open the application in your browser: `http://localhost:3000`
 
 ## Usage
 
-[Explain how to use the application, including the different drawing tools, collaboration features, and any other functionality. Provide examples or screenshots if possible.]
+
 
 ## Images
 
 ### App images
 
-[empty board]
+images
 
-[![empty board](drawing_board/public/fullimage.jpeg)](jk)
+[![empty board](/public/fullimage.jpeg)](jk)
 
 [house sketch using the drawing board]
-[![house sketch](drawing_board/public/houseSK.jpeg)](jk)
+![house sketch](/public/houseSK.jpeg)](jk)
 
-[![Another_sketch](drawing_board/public/Web%20capture_10-6-2023_124711_localhost.jpeg)](/drawing_board/public/Web%20capture_10-6-2023_124711_localhost.jpeg)
+[![Another_sketch](/public/Web%20capture_10-6-2023_124711_localhost.jpeg)](/drawing_board/public/Web%20capture_10-6-2023_124711_localhost.jpeg)
 
 ## Testing
 
@@ -68,7 +67,6 @@ Explain how to run the tests and include any relevant information about the test
 
 ## Deployment
 
-[Provide instructions on how to deploy the project to a live environment. Include any necessary steps or configurations for hosting platforms, such as Heroku, Netlify, or AWS.]
 
 ## Known Issues
 
